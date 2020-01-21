@@ -4,6 +4,9 @@
         "module": "commonjs",
         "lib": ["esnext"],
 
+        "rootDir": "src",
+        "outDir": "dist",
+
         "incremental": true,
         "composite": true,
 

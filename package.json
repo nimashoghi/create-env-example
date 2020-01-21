@@ -1,9 +1,10 @@
 {
-    "name": "node-typescript-starter",
+    "name": "@nimashoghi/create-env-example",
     "version": "0.0.1",
-    "main": "dist/index.js",
-    "types": "dist/index.d.ts",
     "license": "MIT",
+    "bin": {
+        "create-env-examples": "./dist/create-env-examples.js"
+    },
     "scripts": {
         "build": "tsc --build --incremental",
         "clean": "tsc --build --clean && rm -rf ./dist/",
