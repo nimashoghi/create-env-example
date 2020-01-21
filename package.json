@@ -1,6 +1,6 @@
 {
     "name": "@nimashoghi/create-env-example",
-    "version": "0.0.1",
+    "version": "0.0.4",
     "license": "MIT",
     "bin": {
         "create-env-examples": "./dist/create-env-examples.js"
